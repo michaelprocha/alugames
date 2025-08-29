@@ -29,7 +29,7 @@ This project was developed with the following technologies:
 ## 📷 Screenshots
 
 ### Desktop
-![screenshot-desktop](/screenshots/index.png)
+![screenshot-desktop](/screenshots/home.png)
 
 ---
 
